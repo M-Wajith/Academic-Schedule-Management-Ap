@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "906103278245",
+    "project_id": "horizon-connect",
+    "storage_bucket": "horizon-connect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906103278245:android:c7a2560775ce0ae5a85b4c",
+        "android_client_info": {
+          "package_name": "com.example.horizonconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7u8p_Iiu4nE9SaCk8ZS9qB6a4K4BE8RU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

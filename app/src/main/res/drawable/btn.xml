@@ -1,0 +1,12 @@
+<!-- res/drawable/btn.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape xmlns:android="http://schemas.android.com/apk/res/android">
+            <corners android:radius="50dp"/>
+        </shape>
+    </item>
+    <item>
+        <bitmap android:gravity="center"
+            android:src="@drawable/bluebtn"/>
+    </item>
+</layer-list>
